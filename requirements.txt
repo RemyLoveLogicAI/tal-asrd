@@ -24,3 +24,4 @@ unidecode==1.1.1
 textstat==0.6.2
 hdbscan==0.8.26
 scikit-optimize
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
